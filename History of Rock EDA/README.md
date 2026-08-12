@@ -20,6 +20,3 @@ Rather than just running standard statistics, this project focuses heavily on **
 * **The Physical Constraints of Data:** The dataset overwhelmingly favors tracks composed in the keys of A, D, G, C, and E. This mathematically visualizes the physical limitations of the genre's primary instrument: the standard open chords on a standard-tuned guitar.
 * **The "Loudness & Energy" Signature:** Rock music, by its algorithmic definition in this dataset, is heavily reliant on mastering intensity, showing a strict inverse correlation between `acousticness` and `popularity`/`energy`.
 * **The Stability of Classic Rock:** Temporal analysis revealed that "Early" and "Mid" era rock maintain a higher, more stable median popularity on Spotify today compared to the "Modern" era, which displays a long tail of low-popularity tracks.
-
-## How to View
-Simply open the `history_of_rock_eda.ipynb` file in this folder to view the full code, visualizations, and markdown narratives.
