@@ -4,7 +4,7 @@ This repository contains my data science projects and assignments, focusing on d
 
 ## Repository Contents
 
-### 📂 [HW1: History of Rock EDA](./HW1_Rock_EDA/)
+### 📂 [HW1: History of Rock EDA](./History%20of%20Rock%20EDA/)
 An end-to-end Exploratory Data Analysis of Spotify's "History of Rock (1950-2020)" dataset. 
 * **Focus:** Feature engineering, handling algorithmic biases (e.g., API failure placeholders, time-dependency of remastered tracks), and advanced categorical analysis.
 * **Key Discovery:** Identified an algorithmic breakdown in Spotify's audio analysis model regarding complex/asymmetric time signatures (e.g., Pink Floyd's "Money").
